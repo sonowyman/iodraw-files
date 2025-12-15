@@ -26,7 +26,7 @@
           <mxGeometry x="570" y="218" width="165" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-8" value="低频LL" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="750" y="10" width="118" height="49" as="geometry" />
+          <mxGeometry x="760" y="41" width="90" height="29" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-9" value="高频H1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="753" y="208" width="87" height="32" as="geometry" />
@@ -161,6 +161,9 @@
               <mxPoint x="710" y="489" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Z42qfQlhTGKwlv4RyoMi-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.83;entryY=0.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z42qfQlhTGKwlv4RyoMi-9" target="Z42qfQlhTGKwlv4RyoMi-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
