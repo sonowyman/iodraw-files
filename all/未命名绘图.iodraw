@@ -29,6 +29,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WDKvgpu_0lUDCh_93W0h-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WDKvgpu_0lUDCh_93W0h-1" source="WDKvgpu_0lUDCh_93W0h-11" target="WDKvgpu_0lUDCh_93W0h-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WDKvgpu_0lUDCh_93W0h-11" value="空洞扫描" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WDKvgpu_0lUDCh_93W0h-1">
           <mxGeometry x="195" y="120" width="115" height="40" as="geometry" />
         </mxCell>
