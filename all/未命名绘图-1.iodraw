@@ -14,10 +14,10 @@
           <mxGeometry x="16.5" y="276.5" width="130" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-4" value="纯净可见光特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="443" y="218" width="173" height="49" as="geometry" />
+          <mxGeometry x="350" y="218" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-5" value="Feat_IR_Deep" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="451" y="119" width="159" height="49" as="geometry" />
+          <mxGeometry x="358" y="119" width="159" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-6" value="DWT小波分解1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="666" y="119" width="165" height="49" as="geometry" />
