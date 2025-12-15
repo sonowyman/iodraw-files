@@ -35,10 +35,10 @@
           <mxGeometry x="96" y="528" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Abx97BX8WgI-BJPNUxCg-11" value="可微重采样 Warping" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="65" y="627" width="202" height="49" as="geometry" />
+          <mxGeometry x="66" y="600" width="202" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Abx97BX8WgI-BJPNUxCg-12" value="已对齐可见光特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="72" y="726" width="188" height="49" as="geometry" />
+          <mxGeometry x="73" y="680" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Abx97BX8WgI-BJPNUxCg-13" value="不确定性图 σ" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="296" y="528" width="209" height="49" as="geometry" />
