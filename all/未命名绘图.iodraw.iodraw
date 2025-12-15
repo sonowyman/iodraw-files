@@ -8,16 +8,16 @@
           <mxGeometry x="20" y="20" width="532" height="905" as="geometry" />
         </mxCell>
         <mxCell id="Abx97BX8WgI-BJPNUxCg-2" value="输入端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="44" y="45" width="487" height="360" as="geometry" />
+          <mxGeometry x="44" y="45" width="487" height="275" as="geometry" />
         </mxCell>
         <mxCell id="Abx97BX8WgI-BJPNUxCg-3" value="红外图像 Input" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="90" y="70" width="167" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-4" value="可见光图像 Input" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-4" value="可见光图像 Input" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="306" y="70" width="183" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Abx97BX8WgI-BJPNUxCg-5" value="浅层特征提取 Stride=4" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="180" y="169" width="211" height="211" as="geometry" />
+          <mxGeometry x="180" y="169" width="211" height="131" as="geometry" />
         </mxCell>
         <mxCell id="Abx97BX8WgI-BJPNUxCg-6" value="红外浅层特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="100" y="455" width="156" height="49" as="geometry" />
