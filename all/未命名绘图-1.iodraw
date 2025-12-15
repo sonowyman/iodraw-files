@@ -38,10 +38,10 @@
           <mxGeometry x="753" y="307" width="111" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-12" value="低频背景抑制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1058" y="70" width="157" height="49" as="geometry" />
+          <mxGeometry x="889" y="50" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-13" value="高频Mamba交互" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1049" y="268" width="174" height="49" as="geometry" />
+          <mxGeometry x="880" y="248" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-14" value="IDWT重构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1274" y="169" width="129" height="49" as="geometry" />
