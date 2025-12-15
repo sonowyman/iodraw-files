@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="UY7cqfPYkEdHNW4QE6Yw">
-    <mxGraphModel dx="473" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="673" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
         <mxCell id="Abx97BX8WgI-BJPNUxCg-12" value="已对齐可见光特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="74" y="851" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-13" value="不确定性图 $\sigma$" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-13" value="不确定性图 σ" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="298" y="653" width="209" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Abx97BX8WgI-BJPNUxCg-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.07;entryY=0;rounded=0;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-3" target="Abx97BX8WgI-BJPNUxCg-5">
@@ -117,14 +117,6 @@
         <mxCell id="Abx97BX8WgI-BJPNUxCg-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-9" target="Abx97BX8WgI-BJPNUxCg-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.16;rounded=0;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="402" y="950" />
-            </Array>
-            <mxPoint x="324" y="982.8399999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Abx97BX8WgI-BJPNUxCg-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-2" target="Abx97BX8WgI-BJPNUxCg-2">
