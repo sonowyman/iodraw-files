@@ -4,123 +4,123 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-1" value="" style="strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-1" value="" style="strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="80" width="532" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-2" value="" style="strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-2" value="" style="strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="41.5" y="90" width="487" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-3" value="红外图像 Input" style="strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-3" value="红外图像 Input" style="strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="88" y="100" width="167" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-4" value="可见光图像 Input" style="strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-4" value="可见光图像 Input" style="strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="304" y="100" width="183" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-5" value="浅层特征提取 Stride=4" style="rhombus;strokeWidth=2;fillColor=#99FFFF;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-5" value="浅层特征提取 Stride=4" style="rhombus;strokeWidth=2;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="175" y="179" width="211" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-6" value="红外浅层特征" style="strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-6" value="红外浅层特征" style="strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="98" y="330" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-7" value="可见光浅层特征" style="strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-7" value="可见光浅层特征" style="strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="304" y="330" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-8" value="隐式坐标 MLP" style="strokeWidth=2;fillColor=#99FFFF;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-8" value="隐式坐标 MLP" style="strokeWidth=2;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="88" y="429" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-9" value="不确定性预测网络" style="strokeWidth=2;fillColor=#99FFFF;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-9" value="不确定性预测网络" style="strokeWidth=2;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="305" y="429" width="190" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-10" value="坐标偏移场" style="strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-10" value="坐标偏移场" style="strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="95.5" y="510" width="142" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-11" value="可微重采样 Warping" style="strokeWidth=2;fillColor=#99FFFF;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-11" value="可微重采样 Warping" style="strokeWidth=2;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="66" y="600" width="202" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-12" value="已对齐可见光特征" style="strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-12" value="已对齐可见光特征" style="strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="320" y="600" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-13" value="不确定性图 σ" style="strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-13" value="不确定性图 σ" style="strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="335" y="510" width="130" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.07;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-3" target="Abx97BX8WgI-BJPNUxCg-5">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.07;entryY=0;rounded=0;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-3" target="Abx97BX8WgI-BJPNUxCg-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="173" y="144" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.93;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-4" target="Abx97BX8WgI-BJPNUxCg-5">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.93;entryY=0;rounded=0;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-4" target="Abx97BX8WgI-BJPNUxCg-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="398" y="144" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.29;exitY=0.99;entryX=0.32;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-6" target="Abx97BX8WgI-BJPNUxCg-8">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.29;exitY=0.99;entryX=0.32;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-6" target="Abx97BX8WgI-BJPNUxCg-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="108" y="404" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=0.99;entryX=0.84;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-7" target="Abx97BX8WgI-BJPNUxCg-8">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=0.99;entryX=0.84;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-7" target="Abx97BX8WgI-BJPNUxCg-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="273" y="404" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=0.99;entryX=0.22;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-6" target="Abx97BX8WgI-BJPNUxCg-9">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=0.99;entryX=0.22;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-6" target="Abx97BX8WgI-BJPNUxCg-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="293" y="404" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=0.99;entryX=0.66;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-7" target="Abx97BX8WgI-BJPNUxCg-9">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=0.99;entryX=0.66;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-7" target="Abx97BX8WgI-BJPNUxCg-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="460" y="404" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-8" target="Abx97BX8WgI-BJPNUxCg-10">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-8" target="Abx97BX8WgI-BJPNUxCg-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-10" target="Abx97BX8WgI-BJPNUxCg-11">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-10" target="Abx97BX8WgI-BJPNUxCg-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;rounded=0;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-11" target="Abx97BX8WgI-BJPNUxCg-12">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-11" target="Abx97BX8WgI-BJPNUxCg-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-9" target="Abx97BX8WgI-BJPNUxCg-13">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-9" target="Abx97BX8WgI-BJPNUxCg-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-2" target="Abx97BX8WgI-BJPNUxCg-2">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-2" target="Abx97BX8WgI-BJPNUxCg-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-5" target="Abx97BX8WgI-BJPNUxCg-6">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-5" target="Abx97BX8WgI-BJPNUxCg-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="230" as="sourcePoint" />
             <mxPoint x="600" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.713;exitY=0.763;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-5" target="Abx97BX8WgI-BJPNUxCg-7">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.713;exitY=0.763;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-5" target="Abx97BX8WgI-BJPNUxCg-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="270" as="sourcePoint" />
             <mxPoint x="440" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-35" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 18px;&quot;&gt;输入端&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-35" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 18px;&quot;&gt;输入端&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="190" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
