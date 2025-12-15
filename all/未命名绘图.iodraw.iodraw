@@ -16,6 +16,9 @@
         <mxCell id="Abx97BX8WgI-BJPNUxCg-4" value="可见光图像 Input" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="306" y="70" width="183" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-5" target="Abx97BX8WgI-BJPNUxCg-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Abx97BX8WgI-BJPNUxCg-5" value="浅层特征提取 Stride=4" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="179.5" y="169" width="211" height="111" as="geometry" />
         </mxCell>
@@ -54,13 +57,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="398" y="144" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.91;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-5" target="Abx97BX8WgI-BJPNUxCg-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="392" y="405" />
             </Array>
           </mxGeometry>
         </mxCell>
