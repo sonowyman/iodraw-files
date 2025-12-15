@@ -145,39 +145,13 @@
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-55" value="NWD Loss 计算" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="133" y="603" width="136" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Z42qfQlhTGKwlv4RyoMi-57" value="D" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="215" y="380" width="70" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="Z42qfQlhTGKwlv4RyoMi-58" value="E" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="335" y="380" width="69" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-59" value="检测结果 无人机/飞鸟" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="425" y="603" width="218" height="49" as="geometry" />
+          <mxGeometry x="400" y="570" width="218" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.35;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Z42qfQlhTGKwlv4RyoMi-54" target="Z42qfQlhTGKwlv4RyoMi-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="201" y="578" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Z42qfQlhTGKwlv4RyoMi-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.15;entryY=0;rounded=0;" edge="1" parent="1" target="Z42qfQlhTGKwlv4RyoMi-54">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="130" y="479" />
-            </Array>
-            <mxPoint x="130" y="429" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Z42qfQlhTGKwlv4RyoMi-62" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Z42qfQlhTGKwlv4RyoMi-57" target="Z42qfQlhTGKwlv4RyoMi-54">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Z42qfQlhTGKwlv4RyoMi-63" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.85;entryY=0;rounded=0;" edge="1" parent="1" source="Z42qfQlhTGKwlv4RyoMi-58" target="Z42qfQlhTGKwlv4RyoMi-54">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="370" y="479" />
             </Array>
           </mxGeometry>
         </mxCell>
