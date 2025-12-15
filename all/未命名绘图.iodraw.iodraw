@@ -41,7 +41,7 @@
           <mxGeometry x="151" y="850" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xkwc5w2a4yUOB_4UmIxw-13" value="不确定性图 σ" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="490" y="652" width="155" height="49" as="geometry" />
+          <mxGeometry x="489.5" y="850" width="155" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xkwc5w2a4yUOB_4UmIxw-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.07;entryY=0;rounded=0;" edge="1" parent="1" source="xkwc5w2a4yUOB_4UmIxw-3" target="xkwc5w2a4yUOB_4UmIxw-5">
           <mxGeometry relative="1" as="geometry">
