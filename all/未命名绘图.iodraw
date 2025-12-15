@@ -29,8 +29,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WDKvgpu_0lUDCh_93W0h-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WDKvgpu_0lUDCh_93W0h-1">
-          <mxGeometry x="195" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="WDKvgpu_0lUDCh_93W0h-11" value="空洞扫描" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WDKvgpu_0lUDCh_93W0h-1">
+          <mxGeometry x="195" y="120" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WDKvgpu_0lUDCh_93W0h-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="WDKvgpu_0lUDCh_93W0h-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
