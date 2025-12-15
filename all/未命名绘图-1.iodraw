@@ -38,10 +38,10 @@
           <mxGeometry x="753" y="307" width="111" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-12" value="低频背景抑制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="897" y="70" width="157" height="49" as="geometry" />
+          <mxGeometry x="897" y="70" width="103" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-13" value="高频Mamba交互" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="880" y="257" width="174" height="49" as="geometry" />
+          <mxGeometry x="890" y="267" width="150" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-14" value="IDWT重构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1274" y="169" width="129" height="49" as="geometry" />
@@ -170,6 +170,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="920" y="390" as="sourcePoint" />
             <mxPoint x="970" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z42qfQlhTGKwlv4RyoMi-50" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="370" as="sourcePoint" />
+            <mxPoint x="950" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
