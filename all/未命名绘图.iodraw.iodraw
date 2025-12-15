@@ -16,7 +16,7 @@
         <mxCell id="Abx97BX8WgI-BJPNUxCg-4" value="可见光图像 Input" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="304" y="100" width="183" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Abx97BX8WgI-BJPNUxCg-5" value="浅层特征提取 Stride=4" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="Abx97BX8WgI-BJPNUxCg-5" value="浅层特征提取 Stride=4" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="175" y="179" width="211" height="111" as="geometry" />
         </mxCell>
         <mxCell id="Abx97BX8WgI-BJPNUxCg-6" value="红外浅层特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
