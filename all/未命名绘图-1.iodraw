@@ -16,7 +16,7 @@
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-4" value="纯净可见光特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="350" y="218" width="173" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Z42qfQlhTGKwlv4RyoMi-5" value="Feat_IR_Deep" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Z42qfQlhTGKwlv4RyoMi-5" value="红外深层特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="358" y="119" width="159" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-6" value="DWT小波分解1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
