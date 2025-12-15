@@ -38,10 +38,10 @@
           <mxGeometry x="66" y="600" width="202" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Abx97BX8WgI-BJPNUxCg-12" value="已对齐可见光特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="73" y="680" width="188" height="49" as="geometry" />
+          <mxGeometry x="320" y="600" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Abx97BX8WgI-BJPNUxCg-13" value="不确定性图 σ" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="295.5" y="510" width="164.5" height="49" as="geometry" />
+          <mxGeometry x="335" y="510" width="130" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Abx97BX8WgI-BJPNUxCg-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.07;entryY=0;rounded=0;" edge="1" parent="1" source="Abx97BX8WgI-BJPNUxCg-3" target="Abx97BX8WgI-BJPNUxCg-5">
           <mxGeometry relative="1" as="geometry">
