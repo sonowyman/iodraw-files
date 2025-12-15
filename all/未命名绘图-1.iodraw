@@ -8,7 +8,7 @@
           <mxGeometry x="30" y="179.5" width="103" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-2" value="不确定性门控" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="150" y="218" width="157" height="49" as="geometry" />
+          <mxGeometry x="180" y="119" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-3" value="可见光深层特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="16.5" y="276.5" width="130" height="32" as="geometry" />
