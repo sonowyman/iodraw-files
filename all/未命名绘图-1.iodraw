@@ -10,7 +10,7 @@
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-2" value="不确定性门控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="236" y="218" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Z42qfQlhTGKwlv4RyoMi-3" value="Feat_VIS_Deep" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Z42qfQlhTGKwlv4RyoMi-3" value="可见光深层特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="268" width="166" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-4" value="纯净可见光特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
