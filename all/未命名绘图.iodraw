@@ -7,13 +7,13 @@
         <mxCell id="WDKvgpu_0lUDCh_93W0h-1" value="&#xa;" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="20" y="90" width="510" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="WDKvgpu_0lUDCh_93W0h-2" value="红外流 VMamba&#xa;Stride=4, 空洞扫描" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WDKvgpu_0lUDCh_93W0h-1">
+        <mxCell id="WDKvgpu_0lUDCh_93W0h-2" value="红外流 VMamba&#xa;Stride=4," style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WDKvgpu_0lUDCh_93W0h-1">
           <mxGeometry x="43" y="44.962406015037594" width="195" height="65.48872180451127" as="geometry" />
         </mxCell>
         <mxCell id="WDKvgpu_0lUDCh_93W0h-3" value="红外深层特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WDKvgpu_0lUDCh_93W0h-1">
           <mxGeometry x="62" y="182.78195488721806" width="156" height="47.89473684210527" as="geometry" />
         </mxCell>
-        <mxCell id="WDKvgpu_0lUDCh_93W0h-4" value="可见光流 VMamba&#xa;Stride=4, 空洞扫描" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WDKvgpu_0lUDCh_93W0h-1">
+        <mxCell id="WDKvgpu_0lUDCh_93W0h-4" value="可见光流 VMamba&#xa;Stride=4" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WDKvgpu_0lUDCh_93W0h-1">
           <mxGeometry x="288" y="44.962406015037594" width="195" height="65.48872180451127" as="geometry" />
         </mxCell>
         <mxCell id="WDKvgpu_0lUDCh_93W0h-5" value="可见光深层特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WDKvgpu_0lUDCh_93W0h-1">
