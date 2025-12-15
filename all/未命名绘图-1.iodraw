@@ -137,7 +137,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-53" value="检测头" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="70" y="490" width="270" height="181" as="geometry" />
+          <mxGeometry x="100" y="510" width="210" height="161" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-54" value="YOLOv8 解耦头" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="133" y="520" width="134" height="44" as="geometry" />
@@ -146,7 +146,7 @@
           <mxGeometry x="113" y="614" width="136" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-59" value="检测结果 无人机/飞鸟" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="380" y="581" width="218" height="49" as="geometry" />
+          <mxGeometry x="380" y="581" width="150" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.35;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Z42qfQlhTGKwlv4RyoMi-54" target="Z42qfQlhTGKwlv4RyoMi-55">
           <mxGeometry relative="1" as="geometry">
