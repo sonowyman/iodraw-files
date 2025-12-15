@@ -4,6 +4,31 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WDKvgpu_0lUDCh_93W0h-1" value="研究内容二：双流高分&#xa;VMamba 骨干" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="510" height="266" as="geometry" />
+        </mxCell>
+        <mxCell id="WDKvgpu_0lUDCh_93W0h-2" value="红外流 VMamba&#xa;Stride=4, 空洞扫描" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WDKvgpu_0lUDCh_93W0h-1">
+          <mxGeometry x="43" y="46" width="195" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="WDKvgpu_0lUDCh_93W0h-3" value="红外深层特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WDKvgpu_0lUDCh_93W0h-1">
+          <mxGeometry x="62" y="187" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="WDKvgpu_0lUDCh_93W0h-4" value="可见光流 VMamba&#xa;Stride=4, 空洞扫描" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WDKvgpu_0lUDCh_93W0h-1">
+          <mxGeometry x="288" y="46" width="195" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="WDKvgpu_0lUDCh_93W0h-5" value="可见光深层特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WDKvgpu_0lUDCh_93W0h-1">
+          <mxGeometry x="299" y="187" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="WDKvgpu_0lUDCh_93W0h-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WDKvgpu_0lUDCh_93W0h-1" source="WDKvgpu_0lUDCh_93W0h-2" target="WDKvgpu_0lUDCh_93W0h-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WDKvgpu_0lUDCh_93W0h-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WDKvgpu_0lUDCh_93W0h-1" source="WDKvgpu_0lUDCh_93W0h-4" target="WDKvgpu_0lUDCh_93W0h-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
