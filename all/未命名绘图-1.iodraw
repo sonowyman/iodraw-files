@@ -44,7 +44,7 @@
           <mxGeometry x="890" y="267" width="150" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-14" value="IDWT重构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1274" y="169" width="129" height="49" as="geometry" />
+          <mxGeometry x="1000" y="158" width="129" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-15" value="P2特征Stride4" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1453" y="169" width="161" height="49" as="geometry" />
@@ -172,7 +172,7 @@
             <mxPoint x="970" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z42qfQlhTGKwlv4RyoMi-50" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Z42qfQlhTGKwlv4RyoMi-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.387;entryY=1.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z42qfQlhTGKwlv4RyoMi-11" target="Z42qfQlhTGKwlv4RyoMi-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="900" y="370" as="sourcePoint" />
             <mxPoint x="950" y="320" as="targetPoint" />
