@@ -137,7 +137,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-53" value="检测头" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="90" y="479" width="300" height="198" as="geometry" />
+          <mxGeometry x="90" y="479" width="270" height="181" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-54" value="YOLOv8 解耦头" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="166" y="504" width="169" height="49" as="geometry" />
