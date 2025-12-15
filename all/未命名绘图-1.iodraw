@@ -31,7 +31,7 @@
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-9" value="高频H1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="753" y="208" width="111" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Z42qfQlhTGKwlv4RyoMi-10" value="低频LL2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Z42qfQlhTGKwlv4RyoMi-10" value="低频LL" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="750" y="109" width="118" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-11" value="高频H2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
