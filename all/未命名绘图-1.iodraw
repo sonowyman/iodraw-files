@@ -47,19 +47,19 @@
           <mxGeometry x="1000" y="158" width="129" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-15" value="P2特征Stride4" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1453" y="169" width="161" height="49" as="geometry" />
+          <mxGeometry x="1200" y="640" width="161" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-16" value="DWT下采样1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1664" y="169" width="149" height="49" as="geometry" />
+          <mxGeometry x="1411" y="640" width="149" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-17" value="P3特征Stride8" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1863" y="169" width="161" height="49" as="geometry" />
+          <mxGeometry x="1610" y="640" width="161" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-18" value="DWT下采样2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2073" y="169" width="149" height="49" as="geometry" />
+          <mxGeometry x="1820" y="640" width="149" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-19" value="P4特征Stride16" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2273" y="169" width="169" height="49" as="geometry" />
+          <mxGeometry x="2020" y="640" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-20" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z42qfQlhTGKwlv4RyoMi-1" target="Z42qfQlhTGKwlv4RyoMi-2">
           <mxGeometry relative="1" as="geometry">
