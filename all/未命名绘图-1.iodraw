@@ -137,28 +137,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-53" value="检测头" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="100" y="510" width="210" height="161" as="geometry" />
+          <mxGeometry x="510" y="410" width="210" height="161" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-54" value="YOLOv8 解耦头" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="133" y="520" width="134" height="44" as="geometry" />
+          <mxGeometry x="543" y="420" width="134" height="44" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-55" value="NWD Loss 计算" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="113" y="614" width="136" height="49" as="geometry" />
+          <mxGeometry x="523" y="514" width="136" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-59" value="检测结果 无人机/飞鸟" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="380" y="581" width="150" height="39" as="geometry" />
+          <mxGeometry x="740" y="485" width="150" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.35;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Z42qfQlhTGKwlv4RyoMi-54" target="Z42qfQlhTGKwlv4RyoMi-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="181" y="589" />
+              <mxPoint x="591" y="489" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=1;entryX=0.01;entryY=0;rounded=0;" edge="1" parent="1" source="Z42qfQlhTGKwlv4RyoMi-54" target="Z42qfQlhTGKwlv4RyoMi-59">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="300" y="589" />
+              <mxPoint x="710" y="489" />
             </Array>
           </mxGeometry>
         </mxCell>
