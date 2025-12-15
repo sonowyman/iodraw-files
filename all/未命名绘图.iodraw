@@ -41,6 +41,9 @@
             <mxPoint x="421" y="99" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WDKvgpu_0lUDCh_93W0h-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WDKvgpu_0lUDCh_93W0h-1" target="WDKvgpu_0lUDCh_93W0h-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
