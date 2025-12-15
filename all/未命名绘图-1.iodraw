@@ -19,10 +19,10 @@
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-5" value="红外深层特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="358" y="119" width="159" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Z42qfQlhTGKwlv4RyoMi-6" value="DWT小波分解1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Z42qfQlhTGKwlv4RyoMi-6" value="DWT小波分解1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="570" y="119" width="165" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Z42qfQlhTGKwlv4RyoMi-7" value="DWT小波分解2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Z42qfQlhTGKwlv4RyoMi-7" value="DWT小波分解2" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="570" y="218" width="165" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-8" value="低频LL" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -37,13 +37,13 @@
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-11" value="高频H2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="753" y="307" width="111" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Z42qfQlhTGKwlv4RyoMi-12" value="低频背景抑制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Z42qfQlhTGKwlv4RyoMi-12" value="低频背景抑制" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="897" y="70" width="103" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z42qfQlhTGKwlv4RyoMi-13" value="高频Mamba交互" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Z42qfQlhTGKwlv4RyoMi-13" value="高频Mamba交互" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="890" y="267" width="150" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="Z42qfQlhTGKwlv4RyoMi-14" value="IDWT重构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Z42qfQlhTGKwlv4RyoMi-14" value="IDWT重构" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1000" y="158" width="129" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-15" value="P2特征Stride4" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
