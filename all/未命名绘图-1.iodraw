@@ -41,7 +41,7 @@
           <mxGeometry x="897" y="70" width="103" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-13" value="高频Mamba交互" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="873.5" y="234" width="150" height="33" as="geometry" />
+          <mxGeometry x="873.5" y="234" width="126.5" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-14" value="IDWT重构" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1000" y="158" width="129" height="49" as="geometry" />
@@ -130,35 +130,35 @@
             <mxPoint x="1060" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z42qfQlhTGKwlv4RyoMi-52" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Z42qfQlhTGKwlv4RyoMi-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z42qfQlhTGKwlv4RyoMi-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1040" y="280" as="sourcePoint" />
             <mxPoint x="1080" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-53" value="检测头" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="510" y="410" width="210" height="161" as="geometry" />
+          <mxGeometry x="480" y="360" width="210" height="161" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-54" value="YOLOv8 解耦头" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="580" y="420" width="134" height="44" as="geometry" />
+          <mxGeometry x="550" y="370" width="134" height="44" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-55" value="NWD Loss 计算" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="523" y="514" width="136" height="49" as="geometry" />
+          <mxGeometry x="493" y="464" width="136" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-59" value="检测结果 无人机/飞鸟" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="740" y="485" width="150" height="39" as="geometry" />
+          <mxGeometry x="710" y="435" width="150" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.35;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Z42qfQlhTGKwlv4RyoMi-54" target="Z42qfQlhTGKwlv4RyoMi-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="591" y="489" />
+              <mxPoint x="561" y="439" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Z42qfQlhTGKwlv4RyoMi-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=1;entryX=0.01;entryY=0;rounded=0;" edge="1" parent="1" source="Z42qfQlhTGKwlv4RyoMi-54" target="Z42qfQlhTGKwlv4RyoMi-59">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="710" y="489" />
+              <mxPoint x="680" y="439" />
             </Array>
           </mxGeometry>
         </mxCell>
