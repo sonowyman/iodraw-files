@@ -29,10 +29,10 @@
           <mxGeometry x="100" y="45" width="169" height="67" as="geometry" />
         </mxCell>
         <mxCell id="fEMSKYMT6ex3FR_y4cCm-9" value="清洗与标注" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="176" y="162" width="141" height="49" as="geometry" />
+          <mxGeometry x="115" y="162" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fEMSKYMT6ex3FR_y4cCm-10" value="虚实结合数据集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="159" y="261" width="174" height="49" as="geometry" />
+          <mxGeometry x="98.5" y="261" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fEMSKYMT6ex3FR_y4cCm-11" value="输入端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="131" y="410" width="109" height="49" as="geometry" />
