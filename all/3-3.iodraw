@@ -55,6 +55,9 @@
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-15" value="Concat" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="163" y="325.5" width="110" height="24.5" as="geometry" />
         </mxCell>
+        <mxCell id="-dwy8ndleVdAjWwVC6d1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jIwTkEmBrJ-s3c7-YlUU-16" target="-dwy8ndleVdAjWwVC6d1-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-16" value="C2f" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="290" y="326.63" width="35.5" height="26.75" as="geometry" />
         </mxCell>
@@ -233,7 +236,7 @@
           <mxGeometry x="10" y="120" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-dwy8ndleVdAjWwVC6d1-1" value="SimAM无参注意力增强" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="273" y="370" width="143.25" height="60" as="geometry" />
+          <mxGeometry x="273" y="390" width="143.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-dwy8ndleVdAjWwVC6d1-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jIwTkEmBrJ-s3c7-YlUU-16" target="jIwTkEmBrJ-s3c7-YlUU-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
