@@ -44,10 +44,10 @@
           <mxGeometry x="292" y="850" width="85" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-14" value="Upsample" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="162" y="630" width="130" height="49" as="geometry" />
+          <mxGeometry x="176.5" y="370" width="83" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-15" value="Concat" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="163" y="315.5" width="110" height="14.5" as="geometry" />
+          <mxGeometry x="163" y="325.5" width="110" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-16" value="C2f" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="327" y="560" width="85" height="49" as="geometry" />
