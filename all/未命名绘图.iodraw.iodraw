@@ -17,10 +17,10 @@
           <mxGeometry x="100" y="45" width="169" height="67" as="geometry" />
         </mxCell>
         <mxCell id="fEMSKYMT6ex3FR_y4cCm-9" value="清洗与标注" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="115" y="162" width="141" height="49" as="geometry" />
+          <mxGeometry x="330" y="54" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fEMSKYMT6ex3FR_y4cCm-10" value="虚实结合数据集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="98.5" y="261" width="174" height="49" as="geometry" />
+          <mxGeometry x="540" y="54" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fEMSKYMT6ex3FR_y4cCm-11" value="输入端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="130" y="380" width="109" height="49" as="geometry" />
@@ -43,9 +43,10 @@
         <mxCell id="fEMSKYMT6ex3FR_y4cCm-17" value="性能评估（mAP, Recall, FPS）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="70" y="1089" width="229" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="fEMSKYMT6ex3FR_y4cCm-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="fEMSKYMT6ex3FR_y4cCm-9" target="fEMSKYMT6ex3FR_y4cCm-10">
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-22" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=-0.01;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fEMSKYMT6ex3FR_y4cCm-9" target="fEMSKYMT6ex3FR_y4cCm-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="400" y="160" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fEMSKYMT6ex3FR_y4cCm-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="fEMSKYMT6ex3FR_y4cCm-11" target="fEMSKYMT6ex3FR_y4cCm-12">
