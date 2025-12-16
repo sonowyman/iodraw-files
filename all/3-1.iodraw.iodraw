@@ -38,10 +38,10 @@
           <mxGeometry x="25.5" y="450" width="95" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-12" value="Concat" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="420" y="435.5" width="30" height="34.5" as="geometry" />
+          <mxGeometry x="427" y="445.5" width="90" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-13" value="C2f" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="432.5" y="501" width="85" height="49" as="geometry" />
+          <mxGeometry x="438.25" y="501" width="67.5" height="19" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-14" value="Upsample" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="176.5" y="370" width="83" height="30" as="geometry" />
