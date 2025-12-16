@@ -235,7 +235,7 @@
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-3" value="SPD-Conv无损下采样" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="10" y="120" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-dwy8ndleVdAjWwVC6d1-1" value="SimAM无参注意力增强" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-dwy8ndleVdAjWwVC6d1-1" value="SimAM无参注意力增强" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00CC00;" vertex="1" parent="1">
           <mxGeometry x="273" y="390" width="143.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-dwy8ndleVdAjWwVC6d1-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jIwTkEmBrJ-s3c7-YlUU-16" target="jIwTkEmBrJ-s3c7-YlUU-17">
@@ -244,7 +244,7 @@
             <mxPoint x="366.75" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-dwy8ndleVdAjWwVC6d1-5" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-dwy8ndleVdAjWwVC6d1-1">
+        <mxCell id="-dwy8ndleVdAjWwVC6d1-5" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-dwy8ndleVdAjWwVC6d1-1" target="jIwTkEmBrJ-s3c7-YlUU-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="360" as="sourcePoint" />
             <mxPoint x="440" y="310" as="targetPoint" />
