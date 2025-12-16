@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fEMSKYMT6ex3FR_y4cCm-1" value="验证层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="220" width="760" height="240" as="geometry" />
+          <mxGeometry x="40" y="220" width="750" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fEMSKYMT6ex3FR_y4cCm-2" value="算法层（改进YOLO）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="40" y="100" width="760" height="110" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="300" y="240" width="198" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fEMSKYMT6ex3FR_y4cCm-17" value="性能评估（mAP, Recall, FPS）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="75" y="443" width="229" height="67" as="geometry" />
+          <mxGeometry x="552.5" y="231" width="229" height="67" as="geometry" />
         </mxCell>
         <mxCell id="fEMSKYMT6ex3FR_y4cCm-22" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=-0.01;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fEMSKYMT6ex3FR_y4cCm-9" target="fEMSKYMT6ex3FR_y4cCm-10">
           <mxGeometry relative="1" as="geometry">
@@ -64,7 +64,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fEMSKYMT6ex3FR_y4cCm-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fEMSKYMT6ex3FR_y4cCm-15" target="fEMSKYMT6ex3FR_y4cCm-16">
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fEMSKYMT6ex3FR_y4cCm-15" target="fEMSKYMT6ex3FR_y4cCm-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
