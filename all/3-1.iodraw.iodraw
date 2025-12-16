@@ -44,7 +44,7 @@
           <mxGeometry x="433.25" y="447.75" width="90" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-13" value="C2f" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="444.5" y="505" width="67.5" height="19" as="geometry" />
+          <mxGeometry x="445.25" y="480" width="67.5" height="19" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-14" value="Upsample" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="176.5" y="370" width="83.5" height="50" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry x="610" y="221" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-30" value="Detect" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="610" y="435.5" width="109" height="49" as="geometry" />
+          <mxGeometry x="610" y="490" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-31" value="Detect" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="610" y="110.5" width="109" height="49" as="geometry" />
