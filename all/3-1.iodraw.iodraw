@@ -19,16 +19,11 @@
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-5" value="Conv" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="23" y="210" width="96" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jIwTkEmBrJ-s3c7-YlUU-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="jIwTkEmBrJ-s3c7-YlUU-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="92" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-6" value="C2f" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="28.5" y="420" width="85" height="20" as="geometry" />
+          <mxGeometry x="28.5" y="250" width="85" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-7" value="Conv" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="26" y="490" width="90" height="20" as="geometry" />
+          <mxGeometry x="27.5" y="290" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-8" value="C2f" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="27.5" y="560" width="85" height="20" as="geometry" />
