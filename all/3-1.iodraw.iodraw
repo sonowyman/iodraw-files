@@ -32,13 +32,13 @@
           <mxGeometry x="24.5" y="370" width="96" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-10" value="C2f" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="27.5" y="700" width="85" height="20" as="geometry" />
+          <mxGeometry x="30" y="410" width="85" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-11" value="SPPF" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="23" y="770" width="95" height="20" as="geometry" />
+          <mxGeometry x="25.5" y="450" width="95" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-12" value="Concat" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="279.5" y="770" width="110" height="49" as="geometry" />
+          <mxGeometry x="292" y="435.5" width="110" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-13" value="C2f" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="292" y="850" width="85" height="49" as="geometry" />
