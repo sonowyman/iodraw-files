@@ -86,10 +86,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-26" value="Conv" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="430.25" y="261" width="96" height="49" as="geometry" />
+          <mxGeometry x="460" y="280" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-27" value="Concat" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="460" y="321.63" width="40" height="30" as="geometry" />
+          <mxGeometry x="450" y="321.63" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jIwTkEmBrJ-s3c7-YlUU-28" target="jIwTkEmBrJ-s3c7-YlUU-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
