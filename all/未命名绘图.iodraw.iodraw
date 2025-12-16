@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fEMSKYMT6ex3FR_y4cCm-1" value="验证层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="31" y="450" width="299" height="315" as="geometry" />
+          <mxGeometry x="40" y="220" width="760" height="240" as="geometry" />
         </mxCell>
         <mxCell id="fEMSKYMT6ex3FR_y4cCm-2" value="算法层（改进YOLO）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="40" y="100" width="760" height="110" as="geometry" />
         </mxCell>
         <mxCell id="fEMSKYMT6ex3FR_y4cCm-3" value="数据层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="20" width="750" height="70" as="geometry" />
+          <mxGeometry x="40" y="20" width="760" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fEMSKYMT6ex3FR_y4cCm-8" value="真实数据收集 + 仿真数据整合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="55" y="30" width="175" height="50" as="geometry" />
@@ -35,13 +35,13 @@
           <mxGeometry x="81.5" y="170" width="122" height="29" as="geometry" />
         </mxCell>
         <mxCell id="fEMSKYMT6ex3FR_y4cCm-15" value="模型训练" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="118" y="475" width="126" height="49" as="geometry" />
+          <mxGeometry x="127" y="245" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fEMSKYMT6ex3FR_y4cCm-16" value="消融实验/对比实验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="82" y="574" width="198" height="49" as="geometry" />
+          <mxGeometry x="91" y="344" width="198" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fEMSKYMT6ex3FR_y4cCm-17" value="性能评估（mAP, Recall, FPS）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="66" y="673" width="229" height="67" as="geometry" />
+          <mxGeometry x="75" y="443" width="229" height="67" as="geometry" />
         </mxCell>
         <mxCell id="fEMSKYMT6ex3FR_y4cCm-22" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=-0.01;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fEMSKYMT6ex3FR_y4cCm-9" target="fEMSKYMT6ex3FR_y4cCm-10">
           <mxGeometry relative="1" as="geometry">
