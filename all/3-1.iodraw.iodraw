@@ -26,16 +26,16 @@
           <mxGeometry x="26" y="490" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-8" value="C2f" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="27.5" y="560" width="85" height="49" as="geometry" />
+          <mxGeometry x="27.5" y="560" width="85" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-9" value="Conv" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="23" y="630" width="96" height="49" as="geometry" />
+          <mxGeometry x="23" y="630" width="96" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-10" value="C2f" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="27.5" y="700" width="85" height="49" as="geometry" />
+          <mxGeometry x="27.5" y="700" width="85" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-11" value="SPPF" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="23" y="770" width="95" height="49" as="geometry" />
+          <mxGeometry x="23" y="770" width="95" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-12" value="Concat" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="279.5" y="770" width="110" height="49" as="geometry" />
