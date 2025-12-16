@@ -4,6 +4,129 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-1" value="验证层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="35" y="866" width="299" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-2" value="算法层（改进YOLO）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="385" width="330" height="431" as="geometry" />
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-3" value="数据层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="44" y="20" width="324" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-4" value="数据准备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="424" y="54" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-5" value="模型改进" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="425" y="162" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-6" value="训练调优" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="425" y="261" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-7" value="系统验证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="425" y="410" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-8" value="真实数据收集 + 仿真数据整合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="45" width="169" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-9" value="清洗与标注" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="176" y="162" width="141" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-10" value="虚实结合数据集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="159" y="261" width="174" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-11" value="输入端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="131" y="410" width="109" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-12" value="SPD-Backbone（无损特征提取）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="56" y="509" width="258" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-13" value="SimAM-Neck（特征融合增强）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="625" width="260" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-14" value="Detect Head" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="742" width="149" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-15" value="模型训练" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="122" y="891" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-16" value="消融实验/对比实验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="86" y="990" width="198" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-17" value="性能评估（mAP, Recall, FPS）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1089" width="229" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="fEMSKYMT6ex3FR_y4cCm-4" target="fEMSKYMT6ex3FR_y4cCm-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="fEMSKYMT6ex3FR_y4cCm-5" target="fEMSKYMT6ex3FR_y4cCm-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="fEMSKYMT6ex3FR_y4cCm-6" target="fEMSKYMT6ex3FR_y4cCm-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.71;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="fEMSKYMT6ex3FR_y4cCm-8" target="fEMSKYMT6ex3FR_y4cCm-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="246" y="137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="fEMSKYMT6ex3FR_y4cCm-9" target="fEMSKYMT6ex3FR_y4cCm-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="fEMSKYMT6ex3FR_y4cCm-11" target="fEMSKYMT6ex3FR_y4cCm-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fEMSKYMT6ex3FR_y4cCm-12" target="fEMSKYMT6ex3FR_y4cCm-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fEMSKYMT6ex3FR_y4cCm-13" target="fEMSKYMT6ex3FR_y4cCm-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fEMSKYMT6ex3FR_y4cCm-15" target="fEMSKYMT6ex3FR_y4cCm-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fEMSKYMT6ex3FR_y4cCm-16" target="fEMSKYMT6ex3FR_y4cCm-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.3;exitY=0.99;entryX=0.22;entryY=-0.01;rounded=0;" edge="1" parent="1" source="fEMSKYMT6ex3FR_y4cCm-8" target="fEMSKYMT6ex3FR_y4cCm-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="124" y="137" />
+              <mxPoint x="124" y="385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.77;entryY=-0.01;rounded=0;" edge="1" parent="1" source="fEMSKYMT6ex3FR_y4cCm-10" target="fEMSKYMT6ex3FR_y4cCm-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="246" y="385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fEMSKYMT6ex3FR_y4cCm-14" target="fEMSKYMT6ex3FR_y4cCm-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
