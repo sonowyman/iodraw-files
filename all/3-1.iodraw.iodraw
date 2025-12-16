@@ -7,7 +7,7 @@
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-1" value="Input" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="21" y="30" width="98" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jIwTkEmBrJ-s3c7-YlUU-2" value="Conv" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="jIwTkEmBrJ-s3c7-YlUU-2" value="SPD-Conv" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="23" y="80" width="96" height="21" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-3" value="Conv" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
