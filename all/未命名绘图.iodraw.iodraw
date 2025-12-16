@@ -23,10 +23,10 @@
           <mxGeometry x="580" y="30" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fEMSKYMT6ex3FR_y4cCm-11" value="输入端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="130" y="380" width="109" height="49" as="geometry" />
+          <mxGeometry x="612.5" y="110.5" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fEMSKYMT6ex3FR_y4cCm-12" value="SPD-Backbone（无损特征提取）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="56" y="509" width="258" height="67" as="geometry" />
+          <mxGeometry x="290.5" y="111.5" width="220" height="47" as="geometry" />
         </mxCell>
         <mxCell id="fEMSKYMT6ex3FR_y4cCm-13" value="SimAM-Neck（特征融合增强）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="55" y="625" width="260" height="67" as="geometry" />
