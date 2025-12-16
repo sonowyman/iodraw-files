@@ -241,7 +241,7 @@
         <mxCell id="Wi7wGfKFkPPaDT_17msx-10" value="Head" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="625" y="509.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jIwTkEmBrJ-s3c7-YlUU-3" value="SPD-Conv无损下采样" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FF6666;" parent="1" vertex="1">
+        <mxCell id="jIwTkEmBrJ-s3c7-YlUU-3" value="SPD-Conv无损下采样" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="10" y="120" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
