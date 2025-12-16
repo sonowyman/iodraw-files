@@ -29,7 +29,7 @@
           <mxGeometry x="290.5" y="111.5" width="220" height="47" as="geometry" />
         </mxCell>
         <mxCell id="fEMSKYMT6ex3FR_y4cCm-13" value="SimAM-Neck（特征融合增强）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="55" y="625" width="260" height="67" as="geometry" />
+          <mxGeometry x="55" y="118.5" width="175.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fEMSKYMT6ex3FR_y4cCm-14" value="Detect Head" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="110" y="742" width="149" height="49" as="geometry" />
@@ -54,7 +54,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fEMSKYMT6ex3FR_y4cCm-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fEMSKYMT6ex3FR_y4cCm-12" target="fEMSKYMT6ex3FR_y4cCm-13">
+        <mxCell id="fEMSKYMT6ex3FR_y4cCm-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fEMSKYMT6ex3FR_y4cCm-12" target="fEMSKYMT6ex3FR_y4cCm-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
