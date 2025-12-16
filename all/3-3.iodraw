@@ -19,7 +19,7 @@
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-2" value="SPD-Conv无损下采样" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="10" y="70" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jIwTkEmBrJ-s3c7-YlUU-3" value="Conv" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="jIwTkEmBrJ-s3c7-YlUU-3" value="SPD-Conv无损下采样" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="10" y="120" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-4" value="C2f" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
