@@ -32,10 +32,10 @@
           <mxGeometry x="186" y="620" width="96" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-10" value="C2f" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="140" y="911" width="85" height="49" as="geometry" />
+          <mxGeometry x="190.5" y="690" width="85" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-11" value="SPPF" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="135" y="1010" width="95" height="49" as="geometry" />
+          <mxGeometry x="186" y="760" width="95" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jIwTkEmBrJ-s3c7-YlUU-12" value="Concat" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="128" y="1109" width="110" height="49" as="geometry" />
